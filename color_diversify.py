@@ -30,9 +30,6 @@ cv.putText(canvas, 'Polylines', pts[0].flatten(), cv.FONT_HERSHEY_DUPLEX, 0.5, (
 cv.imshow('Shape Drawing', canvas)
 cv.waitKey()  # waits until the you press ESC 
 
-import numpy as np
-import cv2 as cv
-
 def mouse_event_handler(event, x, y, flags, param):
     # Change 'mouse_state' (given as 'param') according to the mouse 'event'
     if event == cv.EVENT_LBUTTONDOWN:
