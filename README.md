@@ -15,6 +15,4 @@
 
 ### Result Screenshots
 
-- ![Recording from the front camera](https://drive.google.com/file/d/1MZAaKzkFI1Wu29KbHboB9soE0Sy_tQfQ/view?usp=share_link)
-
-- ![Saved the video result file](https://drive.google.com/file/d/1nb3H-hZcAx8o1HVnQPFUExk4_yQpdeot/view?usp=share_link)
+<p align ="left"> <img width=40% src="imgs/1.png"/><img align = "right"width=40% src="imgs/2.png"/></p>
