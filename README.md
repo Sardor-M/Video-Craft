@@ -1,3 +1,3 @@
 ## Diversify-Codie
 
-Open CV practice implementation space.
+This is a Open CV practice implementation space.

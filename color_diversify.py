@@ -84,6 +84,7 @@ if __name__ == '__main__':
     free_drawing()
 
 cv.waitKey()
+cv.destroyAllWindows()
 
 
 
